@@ -1,0 +1,16 @@
+body {
+    color: rgb(118, 186, 163);
+    background-color: honeydew;
+}
+
+h1,
+h2 {
+    color: darkmagenta;
+    font-family: fantasy;
+}
+
+h4 {
+    padding: 2cm;
+    font-size: larger;
+    font-family: sans-serif;
+}
