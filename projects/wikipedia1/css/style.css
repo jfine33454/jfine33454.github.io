@@ -1,0 +1,16 @@
+h1 {
+    color: cornflowerblue;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+}
+
+h3 {
+    color: crimson;
+    background-color: black;
+    font-family: "Rajdhani", sans-serif;
+}
