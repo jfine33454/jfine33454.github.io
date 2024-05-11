@@ -5,20 +5,20 @@ img {
 
 h1,
 h2 {
-  color: rgb(14, 14, 117);
+  color: rgb(0, 0, 213);
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: center;
 }
 
 head {
-  background-color: rgb(168, 16, 16);
-  color: rgb(0, 34, 224);
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 213);
 
 }
 
 body {
-  background-color: rgb(168, 16, 16);
-  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  color: rgb(145, 4, 4);
 }
 
 h1,
